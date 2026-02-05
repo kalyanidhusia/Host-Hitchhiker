@@ -1,0 +1,4 @@
+sample,fastq_1,fastq_2,strandedness
+SRR19779319,/home/kdhusia/PROJECTS/manzo/data/SRR19779319_1.fastq.gz,/home/kdhusia/PROJECTS/manzo/data/SRR19779319_2.fastq.gz,reverse
+SRR25816557,/home/kdhusia/PROJECTS/manzo/data/SRR25816557_1.fastq.gz,/home/kdhusia/PROJECTS/manzo/data/SRR25816557_2.fastq.gz,reverse
+SRR25905050,/home/kdhusia/PROJECTS/manzo/data/SRR25905050_1.fastq.gz,/home/kdhusia/PROJECTS/manzo/data/SRR25905050_2.fastq.gz,reverse

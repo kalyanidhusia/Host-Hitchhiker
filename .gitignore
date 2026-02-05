@@ -1,0 +1,14 @@
+*.vcf
+*.fastq.gz
+data/
+work/
+tiny*
+submit_pipeline.sh
+*shutoff
+logs/
+combine_results
+apptainer_cache
+results/
+results_kshv_host/
+samplesheet.csv
+*.nextflow*
