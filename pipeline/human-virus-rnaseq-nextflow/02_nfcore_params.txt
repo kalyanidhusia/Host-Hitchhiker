@@ -1,0 +1,12 @@
+SAMPLESHEET=./dual_virus_samplesheet.csv
+OUTDIR=./results_host_multiVirus
+FASTA=./ref_bundle/human_virus.fasta
+GTF=./ref_bundle/human_virus.gtf
+ANN=./ref_bundle/gene_annotation.tsv
+CONTIGMAP=./ref_bundle/contig_origin.tsv
+NFCORE_VER=3.14.0
+PROFILE=apptainer
+ALIGNER=star_salmon
+STRANDEDNESS=reverse
+MAX_CPUS=16
+MAX_MEMORY=58.GB
