@@ -1,0 +1,228 @@
+NC_009333.1	RefSeq	transcript	29	1083	.	+	.	transcript_id "rna-HHV8GK18_gp01"; gene_id "gene-HHV8GK18_gp01"; gene_name "K1"
+NC_009333.1	RefSeq	exon	29	1083	.	+	.	transcript_id "rna-HHV8GK18_gp01"; gene_id "gene-HHV8GK18_gp01"; gene_name "K1";
+NC_009333.1	RefSeq	CDS	105	944	.	+	0	transcript_id "rna-HHV8GK18_gp01"; gene_id "gene-HHV8GK18_gp01"; gene_name "K1";
+NC_009333.1	RefSeq	transcript	1112	2764	.	+	.	transcript_id "gene-HHV8GK18_gp02"; gene_id "gene-HHV8GK18_gp02"; gene_name "ORF4"
+NC_009333.1	RefSeq	CDS	1112	2764	.	+	0	transcript_id "gene-HHV8GK18_gp02"; gene_name "ORF4";
+NC_009333.1	RefSeq	transcript	3179	6577	.	+	.	transcript_id "gene-HHV8GK18_gp03"; gene_id "gene-HHV8GK18_gp03"; gene_name "ORF6"
+NC_009333.1	RefSeq	CDS	3179	6577	.	+	0	transcript_id "gene-HHV8GK18_gp03"; gene_name "ORF6";
+NC_009333.1	RefSeq	transcript	6594	8681	.	+	.	transcript_id "gene-HHV8GK18_gp04"; gene_id "gene-HHV8GK18_gp04"; gene_name "ORF7"
+NC_009333.1	RefSeq	CDS	6594	8681	.	+	0	transcript_id "gene-HHV8GK18_gp04"; gene_name "ORF7";
+NC_009333.1	RefSeq	transcript	8665	11202	.	+	.	transcript_id "gene-HHV8GK18_gp05"; gene_id "gene-HHV8GK18_gp05"; gene_name "ORF8"
+NC_009333.1	RefSeq	CDS	8665	11202	.	+	0	transcript_id "gene-HHV8GK18_gp05"; gene_name "ORF8";
+NC_009333.1	RefSeq	transcript	11329	14367	.	+	.	transcript_id "gene-HHV8GK18_gp06"; gene_id "gene-HHV8GK18_gp06"; gene_name "ORF9"
+NC_009333.1	RefSeq	CDS	11329	14367	.	+	0	transcript_id "gene-HHV8GK18_gp06"; gene_name "ORF9";
+NC_009333.1	RefSeq	transcript	14485	15741	.	+	.	transcript_id "gene-HHV8GK18_gp07"; gene_id "gene-HHV8GK18_gp07"; gene_name "ORF10"
+NC_009333.1	RefSeq	CDS	14485	15741	.	+	0	transcript_id "gene-HHV8GK18_gp07"; gene_name "ORF10";
+NC_009333.1	RefSeq	transcript	15756	16979	.	+	.	transcript_id "gene-HHV8GK18_gp08"; gene_id "gene-HHV8GK18_gp08"; gene_name "ORF11"
+NC_009333.1	RefSeq	CDS	15756	16979	.	+	0	transcript_id "gene-HHV8GK18_gp08"; gene_name "ORF11";
+NC_009333.1	RefSeq	transcript	17227	17841	.	-	.	transcript_id "gene-HHV8GK18_gp10"; gene_id "gene-HHV8GK18_gp10"; gene_name "K2"
+NC_009333.1	RefSeq	CDS	17227	17841	.	-	0	transcript_id "gene-HHV8GK18_gp10"; gene_name "K2";
+NC_009333.1	RefSeq	transcript	17887	18519	.	-	.	transcript_id "gene-HHV8GK18_gp09"; gene_id "gene-HHV8GK18_gp09"; gene_name "ORF2"
+NC_009333.1	RefSeq	CDS	17887	18519	.	-	0	transcript_id "gene-HHV8GK18_gp09"; gene_name "ORF2";
+NC_009333.1	RefSeq	transcript	18574	19542	.	-	.	transcript_id "gene-HHV8GK18_gp11"; gene_id "gene-HHV8GK18_gp11"; gene_name "K3"
+NC_009333.1	RefSeq	CDS	18574	19542	.	-	0	transcript_id "gene-HHV8GK18_gp11"; gene_name "K3";
+NC_009333.1	RefSeq	transcript	20023	21036	.	-	.	transcript_id "gene-HHV8GK18_gp12"; gene_id "gene-HHV8GK18_gp12"; gene_name "ORF70"
+NC_009333.1	RefSeq	CDS	20023	21036	.	-	0	transcript_id "gene-HHV8GK18_gp12"; gene_name "ORF70";
+NC_009333.1	RefSeq	transcript	21480	21764	.	-	.	transcript_id "gene-HHV8GK18_gp13"; gene_id "gene-HHV8GK18_gp13"; gene_name "K4"
+NC_009333.1	RefSeq	CDS	21480	21764	.	-	0	transcript_id "gene-HHV8GK18_gp13"; gene_name "K4";
+NC_009333.1	RefSeq	transcript	22117	22461	.	-	.	transcript_id "gene-HHV8GK18_gp15"; gene_id "gene-HHV8GK18_gp15"; gene_name "K4.1"
+NC_009333.1	RefSeq	CDS	22117	22461	.	-	0	transcript_id "gene-HHV8GK18_gp15"; gene_name "K4.1";
+NC_009333.1	RefSeq	transcript	22530	23078	.	-	.	transcript_id "gene-HHV8GK18_gp14"; gene_id "gene-HHV8GK18_gp14"; gene_name "K4.2"
+NC_009333.1	RefSeq	CDS	22530	23078	.	-	0	transcript_id "gene-HHV8GK18_gp14"; gene_name "K4.2";
+NC_009333.1	RefSeq	transcript	25865	26635	.	-	.	transcript_id "gene-HHV8GK18_gp16"; gene_id "gene-HHV8GK18_gp16"; gene_name "K5"
+NC_009333.1	RefSeq	CDS	25865	26635	.	-	0	transcript_id "gene-HHV8GK18_gp16"; gene_name "K5";
+NC_009333.1	RefSeq	transcript	27289	27576	.	-	.	transcript_id "gene-HHV8GK18_gp17"; gene_id "gene-HHV8GK18_gp17"; gene_name "K6"
+NC_009333.1	RefSeq	CDS	27289	27576	.	-	0	transcript_id "gene-HHV8GK18_gp17"; gene_name "K6";
+NC_009333.1	RefSeq	transcript	28774	29154	.	+	.	transcript_id "gene-HHV8GK18_gp18"; gene_id "gene-HHV8GK18_gp18"; gene_name "K7"
+NC_009333.1	RefSeq	CDS	28774	29154	.	+	0	transcript_id "gene-HHV8GK18_gp18"; gene_name "K7";
+NC_009333.1	RefSeq	transcript	28819	29895	.	+	.	transcript_id "rna-HHV8_gs01"; gene_id "gene-HHV8_gs01"
+NC_009333.1	RefSeq	exon	28819	29895	.	+	.	transcript_id "rna-HHV8_gs01"; gene_id "gene-HHV8_gs01";
+NC_009333.1	RefSeq	transcript	30242	30769	.	+	.	transcript_id "gene-HHV8GK18_gp19"; gene_id "gene-HHV8GK18_gp19"; gene_name "ORF16"
+NC_009333.1	RefSeq	CDS	30242	30769	.	+	0	transcript_id "gene-HHV8GK18_gp19"; gene_name "ORF16";
+NC_009333.1	RefSeq	transcript	30920	31786	.	-	.	transcript_id "gene-HHV8GK18_gp21"; gene_id "gene-HHV8GK18_gp21"; gene_name "ORF17.5"
+NC_009333.1	RefSeq	CDS	30920	31786	.	-	0	transcript_id "gene-HHV8GK18_gp21"; gene_name "ORF17.5";
+NC_009333.1	RefSeq	transcript	30920	32524	.	-	.	transcript_id "gene-HHV8GK18_gp20"; gene_id "gene-HHV8GK18_gp20"; gene_name "ORF17"
+NC_009333.1	RefSeq	CDS	30920	32524	.	-	0	transcript_id "gene-HHV8GK18_gp20"; gene_name "ORF17";
+NC_009333.1	RefSeq	transcript	32523	33296	.	+	.	transcript_id "gene-HHV8GK18_gp22"; gene_id "gene-HHV8GK18_gp22"; gene_name "ORF18"
+NC_009333.1	RefSeq	CDS	32523	33296	.	+	0	transcript_id "gene-HHV8GK18_gp22"; gene_name "ORF18";
+NC_009333.1	RefSeq	transcript	33293	34942	.	-	.	transcript_id "gene-HHV8GK18_gp24"; gene_id "gene-HHV8GK18_gp24"; gene_name "ORF19"
+NC_009333.1	RefSeq	CDS	33293	34942	.	-	0	transcript_id "gene-HHV8GK18_gp24"; gene_name "ORF19";
+NC_009333.1	RefSeq	transcript	34710	35483	.	-	.	transcript_id "gene-HHV8GK18_gp23"; gene_id "gene-HHV8GK18_gp23"; gene_name "ORF20"
+NC_009333.1	RefSeq	CDS	34710	35483	.	-	0	transcript_id "gene-HHV8GK18_gp23"; gene_name "ORF20";
+NC_009333.1	RefSeq	transcript	35482	37224	.	+	.	transcript_id "gene-HHV8GK18_gp25"; gene_id "gene-HHV8GK18_gp25"; gene_name "ORF21"
+NC_009333.1	RefSeq	CDS	35482	37224	.	+	0	transcript_id "gene-HHV8GK18_gp25"; gene_name "ORF21";
+NC_009333.1	RefSeq	transcript	37212	39404	.	+	.	transcript_id "gene-HHV8GK18_gp26"; gene_id "gene-HHV8GK18_gp26"; gene_name "ORF22"
+NC_009333.1	RefSeq	CDS	37212	39404	.	+	0	transcript_id "gene-HHV8GK18_gp26"; gene_name "ORF22";
+NC_009333.1	RefSeq	transcript	39401	40615	.	-	.	transcript_id "gene-HHV8GK18_gp28"; gene_id "gene-HHV8GK18_gp28"; gene_name "ORF23"
+NC_009333.1	RefSeq	CDS	39401	40615	.	-	0	transcript_id "gene-HHV8GK18_gp28"; gene_name "ORF23";
+NC_009333.1	RefSeq	transcript	40619	42877	.	-	.	transcript_id "gene-HHV8GK18_gp27"; gene_id "gene-HHV8GK18_gp27"; gene_name "ORF24"
+NC_009333.1	RefSeq	CDS	40619	42877	.	-	0	transcript_id "gene-HHV8GK18_gp27"; gene_name "ORF24";
+NC_009333.1	RefSeq	transcript	42876	47006	.	+	.	transcript_id "gene-HHV8GK18_gp29"; gene_id "gene-HHV8GK18_gp29"; gene_name "ORF25"
+NC_009333.1	RefSeq	CDS	42876	47006	.	+	0	transcript_id "gene-HHV8GK18_gp29"; gene_name "ORF25";
+NC_009333.1	RefSeq	transcript	47032	47949	.	+	.	transcript_id "gene-HHV8GK18_gp30"; gene_id "gene-HHV8GK18_gp30"; gene_name "ORF26"
+NC_009333.1	RefSeq	CDS	47032	47949	.	+	0	transcript_id "gene-HHV8GK18_gp30"; gene_name "ORF26";
+NC_009333.1	RefSeq	transcript	47973	48845	.	+	.	transcript_id "gene-HHV8GK18_gp31"; gene_id "gene-HHV8GK18_gp31"; gene_name "ORF27"
+NC_009333.1	RefSeq	CDS	47973	48845	.	+	0	transcript_id "gene-HHV8GK18_gp31"; gene_name "ORF27";
+NC_009333.1	RefSeq	transcript	49091	49399	.	+	.	transcript_id "gene-HHV8GK18_gp32"; gene_id "gene-HHV8GK18_gp32"; gene_name "ORF28"
+NC_009333.1	RefSeq	CDS	49091	49399	.	+	0	transcript_id "gene-HHV8GK18_gp32"; gene_name "ORF28";
+NC_009333.1	RefSeq	transcript	49462	54775	.	-	.	transcript_id "gene-HHV8GK18_gp33"; gene_id "gene-HHV8GK18_gp33"; gene_name "ORF29"
+NC_009333.1	RefSeq	CDS	49462	50604	.	-	0	transcript_id "gene-HHV8GK18_gp33"; gene_name "ORF29";
+NC_009333.1	RefSeq	CDS	53855	54775	.	-	0	transcript_id "gene-HHV8GK18_gp33"; gene_name "ORF29";
+NC_009333.1	RefSeq	transcript	50723	50956	.	+	.	transcript_id "gene-HHV8GK18_gp34"; gene_id "gene-HHV8GK18_gp34"; gene_name "ORF30"
+NC_009333.1	RefSeq	CDS	50723	50956	.	+	0	transcript_id "gene-HHV8GK18_gp34"; gene_name "ORF30";
+NC_009333.1	RefSeq	transcript	50953	51537	.	+	.	transcript_id "gene-HHV8GK18_gp35"; gene_id "gene-HHV8GK18_gp35"; gene_name "ORF31"
+NC_009333.1	RefSeq	CDS	50953	51537	.	+	0	transcript_id "gene-HHV8GK18_gp35"; gene_name "ORF31";
+NC_009333.1	RefSeq	transcript	51504	52868	.	+	.	transcript_id "gene-HHV8GK18_gp36"; gene_id "gene-HHV8GK18_gp36"; gene_name "ORF32"
+NC_009333.1	RefSeq	CDS	51504	52868	.	+	0	transcript_id "gene-HHV8GK18_gp36"; gene_name "ORF32";
+NC_009333.1	RefSeq	transcript	52861	53865	.	+	.	transcript_id "gene-HHV8GK18_gp37"; gene_id "gene-HHV8GK18_gp37"; gene_name "ORF33"
+NC_009333.1	RefSeq	CDS	52861	53865	.	+	0	transcript_id "gene-HHV8GK18_gp37"; gene_name "ORF33";
+NC_009333.1	RefSeq	transcript	54665	58974	.	+	.	transcript_id "rna-HHV8GK18_gp38"; gene_id "gene-HHV8GK18_gp38"; gene_name "ORF34"
+NC_009333.1	RefSeq	exon	54665	58974	.	+	.	transcript_id "rna-HHV8GK18_gp38"; gene_id "gene-HHV8GK18_gp38"; gene_name "ORF34";
+NC_009333.1	RefSeq	CDS	54774	55757	.	+	0	transcript_id "rna-HHV8GK18_gp38"; gene_id "gene-HHV8GK18_gp38"; gene_name "ORF34";
+NC_009333.1	RefSeq	transcript	55666	58974	.	+	.	transcript_id "rna-HHV8GK18_gp39"; gene_id "gene-HHV8GK18_gp39"; gene_name "ORF35"
+NC_009333.1	RefSeq	exon	55666	58974	.	+	.	transcript_id "rna-HHV8GK18_gp39"; gene_id "gene-HHV8GK18_gp39"; gene_name "ORF35";
+NC_009333.1	RefSeq	CDS	55738	56190	.	+	0	transcript_id "rna-HHV8GK18_gp39"; gene_id "gene-HHV8GK18_gp39"; gene_name "ORF35";
+NC_009333.1	RefSeq	transcript	56075	57409	.	+	.	transcript_id "gene-HHV8GK18_gp40"; gene_id "gene-HHV8GK18_gp40"; gene_name "ORF36"
+NC_009333.1	RefSeq	CDS	56075	57409	.	+	0	transcript_id "gene-HHV8GK18_gp40"; gene_name "ORF36";
+NC_009333.1	RefSeq	transcript	57372	58832	.	+	.	transcript_id "gene-HHV8GK18_gp41"; gene_id "gene-HHV8GK18_gp41"; gene_name "ORF37"
+NC_009333.1	RefSeq	CDS	57372	58832	.	+	0	transcript_id "gene-HHV8GK18_gp41"; gene_name "ORF37";
+NC_009333.1	RefSeq	transcript	58787	58972	.	+	.	transcript_id "gene-HHV8GK18_gp42"; gene_id "gene-HHV8GK18_gp42"; gene_name "ORF38"
+NC_009333.1	RefSeq	CDS	58787	58972	.	+	0	transcript_id "gene-HHV8GK18_gp42"; gene_name "ORF38";
+NC_009333.1	RefSeq	transcript	59072	60274	.	-	.	transcript_id "gene-HHV8GK18_gp43"; gene_id "gene-HHV8GK18_gp43"; gene_name "ORF39"
+NC_009333.1	RefSeq	CDS	59072	60274	.	-	0	transcript_id "gene-HHV8GK18_gp43"; gene_name "ORF39";
+NC_009333.1	RefSeq	transcript	60407	62543	.	+	.	transcript_id "gene-HHV8GK18_gp44"; gene_id "gene-HHV8GK18_gp44"; gene_name "ORF40"
+NC_009333.1	RefSeq	CDS	60407	61756	.	+	0	transcript_id "gene-HHV8GK18_gp44"; gene_name "ORF40";
+NC_009333.1	RefSeq	CDS	61884	62543	.	+	0	transcript_id "gene-HHV8GK18_gp44"; gene_name "ORF40";
+NC_009333.1	RefSeq	transcript	62535	63371	.	-	.	transcript_id "gene-HHV8GK18_gp46"; gene_id "gene-HHV8GK18_gp46"; gene_name "ORF42"
+NC_009333.1	RefSeq	CDS	62535	63371	.	-	0	transcript_id "gene-HHV8GK18_gp46"; gene_name "ORF42";
+NC_009333.1	RefSeq	transcript	63235	65052	.	-	.	transcript_id "gene-HHV8GK18_gp45"; gene_id "gene-HHV8GK18_gp45"; gene_name "ORF43"
+NC_009333.1	RefSeq	CDS	63235	65052	.	-	0	transcript_id "gene-HHV8GK18_gp45"; gene_name "ORF43";
+NC_009333.1	RefSeq	transcript	64991	67357	.	+	.	transcript_id "gene-HHV8GK18_gp47"; gene_id "gene-HHV8GK18_gp47"; gene_name "ORF44"
+NC_009333.1	RefSeq	CDS	64991	67357	.	+	0	transcript_id "gene-HHV8GK18_gp47"; gene_name "ORF44";
+NC_009333.1	RefSeq	transcript	67452	68675	.	-	.	transcript_id "gene-HHV8GK18_gp51"; gene_id "gene-HHV8GK18_gp51"; gene_name "ORF45"
+NC_009333.1	RefSeq	CDS	67452	68675	.	-	0	transcript_id "gene-HHV8GK18_gp51"; gene_name "ORF45";
+NC_009333.1	RefSeq	transcript	68736	69503	.	-	.	transcript_id "gene-HHV8GK18_gp50"; gene_id "gene-HHV8GK18_gp50"; gene_name "ORF46"
+NC_009333.1	RefSeq	CDS	68736	69503	.	-	0	transcript_id "gene-HHV8GK18_gp50"; gene_name "ORF46";
+NC_009333.1	RefSeq	transcript	69511	70014	.	-	.	transcript_id "gene-HHV8GK18_gp49"; gene_id "gene-HHV8GK18_gp49"; gene_name "ORF47"
+NC_009333.1	RefSeq	CDS	69511	70014	.	-	0	transcript_id "gene-HHV8GK18_gp49"; gene_name "ORF47";
+NC_009333.1	RefSeq	transcript	70272	71480	.	-	.	transcript_id "gene-HHV8GK18_gp48"; gene_id "gene-HHV8GK18_gp48"; gene_name "ORF48"
+NC_009333.1	RefSeq	CDS	70272	71480	.	-	0	transcript_id "gene-HHV8GK18_gp48"; gene_name "ORF48";
+NC_009333.1	RefSeq	transcript	71695	74728	.	+	.	transcript_id "gene-HHV8GK18_gp52"; gene_id "gene-HHV8GK18_gp52"; gene_name "ORF50"
+NC_009333.1	RefSeq	CDS	71695	71712	.	+	0	transcript_id "gene-HHV8GK18_gp52"; gene_name "ORF50";
+NC_009333.1	RefSeq	CDS	72671	74728	.	+	0	transcript_id "gene-HHV8GK18_gp52"; gene_name "ORF50";
+NC_009333.1	RefSeq	transcript	71729	72637	.	-	.	transcript_id "gene-HHV8GK18_gp53"; gene_id "gene-HHV8GK18_gp53"; gene_name "ORF49"
+NC_009333.1	RefSeq	CDS	71729	72637	.	-	0	transcript_id "gene-HHV8GK18_gp53"; gene_name "ORF49";
+NC_009333.1	RefSeq	transcript	74949	75890	.	+	.	transcript_id "gene-HHV8GK18_gp54"; gene_id "gene-HHV8GK18_gp54"; gene_name "K8"
+NC_009333.1	RefSeq	CDS	74949	75662	.	+	0	transcript_id "gene-HHV8GK18_gp54"; gene_name "K8";
+NC_009333.1	RefSeq	CDS	75744	75890	.	+	0	transcript_id "gene-HHV8GK18_gp54"; gene_name "K8";
+NC_009333.1	RefSeq	transcript	76014	76794	.	+	.	transcript_id "gene-HHV8GK18_gp55"; gene_id "gene-HHV8GK18_gp55"; gene_name "K8.1"
+NC_009333.1	RefSeq	CDS	76014	76437	.	+	0	transcript_id "gene-HHV8GK18_gp55"; gene_name "K8.1";
+NC_009333.1	RefSeq	CDS	76532	76794	.	+	2	transcript_id "gene-HHV8GK18_gp55"; gene_name "K8.1";
+NC_009333.1	RefSeq	transcript	76901	77296	.	-	.	transcript_id "gene-HHV8GK18_gp56"; gene_id "gene-HHV8GK18_gp56"; gene_name "ORF52"
+NC_009333.1	RefSeq	CDS	76901	77296	.	-	0	transcript_id "gene-HHV8GK18_gp56"; gene_name "ORF52";
+NC_009333.1	RefSeq	transcript	77432	77764	.	-	.	transcript_id "gene-HHV8GK18_gp57"; gene_id "gene-HHV8GK18_gp57"; gene_name "ORF53"
+NC_009333.1	RefSeq	CDS	77432	77764	.	-	0	transcript_id "gene-HHV8GK18_gp57"; gene_name "ORF53";
+NC_009333.1	RefSeq	transcript	77835	78722	.	+	.	transcript_id "gene-HHV8GK18_gp58"; gene_id "gene-HHV8GK18_gp58"; gene_name "ORF54"
+NC_009333.1	RefSeq	CDS	77835	78722	.	+	0	transcript_id "gene-HHV8GK18_gp58"; gene_name "ORF54";
+NC_009333.1	RefSeq	transcript	78864	79547	.	-	.	transcript_id "gene-HHV8GK18_gp59"; gene_id "gene-HHV8GK18_gp59"; gene_name "ORF55"
+NC_009333.1	RefSeq	CDS	78864	79547	.	-	0	transcript_id "gene-HHV8GK18_gp59"; gene_name "ORF55";
+NC_009333.1	RefSeq	transcript	79535	82066	.	+	.	transcript_id "gene-HHV8GK18_gp60"; gene_id "gene-HHV8GK18_gp60"; gene_name "ORF56"
+NC_009333.1	RefSeq	CDS	79535	82066	.	+	0	transcript_id "gene-HHV8GK18_gp60"; gene_name "ORF56";
+NC_009333.1	RefSeq	transcript	82169	83644	.	+	.	transcript_id "gene-HHV8GK18_gp61"; gene_id "gene-HHV8GK18_gp61"; gene_name "ORF57"
+NC_009333.1	RefSeq	CDS	82169	82217	.	+	0	transcript_id "gene-HHV8GK18_gp61"; gene_name "ORF57";
+NC_009333.1	RefSeq	CDS	82326	83644	.	+	2	transcript_id "gene-HHV8GK18_gp61"; gene_name "ORF57";
+NC_009333.1	RefSeq	transcript	83887	85388	.	-	.	transcript_id "rna-HHV8GK18_gp62"; gene_id "gene-HHV8GK18_gp62"; gene_name "vIRF-1"
+NC_009333.1	RefSeq	exon	83887	85388	.	-	.	transcript_id "rna-HHV8GK18_gp62"; gene_id "gene-HHV8GK18_gp62"; gene_name "vIRF-1";
+NC_009333.1	RefSeq	CDS	83960	85309	.	-	0	transcript_id "rna-HHV8GK18_gp62"; gene_id "gene-HHV8GK18_gp62"; gene_name "vIRF-1";
+NC_009333.1	RefSeq	transcript	86106	89040	.	-	.	transcript_id "rna-HHV8GK18_gp63-2"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4"
+NC_009333.1	RefSeq	exon	86106	88442	.	-	.	transcript_id "rna-HHV8GK18_gp63-2"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4";
+NC_009333.1	RefSeq	exon	88544	89040	.	-	.	transcript_id "rna-HHV8GK18_gp63-2"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4";
+NC_009333.1	RefSeq	CDS	86174	88442	.	-	1	transcript_id "rna-HHV8GK18_gp63-2"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4";
+NC_009333.1	RefSeq	CDS	88544	89010	.	-	0	transcript_id "rna-HHV8GK18_gp63-2"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4";
+NC_009333.1	RefSeq	transcript	86106	89142	.	-	.	transcript_id "rna-HHV8GK18_gp63"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4"
+NC_009333.1	RefSeq	exon	86106	88442	.	-	.	transcript_id "rna-HHV8GK18_gp63"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4";
+NC_009333.1	RefSeq	exon	88544	89142	.	-	.	transcript_id "rna-HHV8GK18_gp63"; gene_id "gene-HHV8GK18_gp63"; gene_name "vIRF-4";
+NC_009333.1	RefSeq	transcript	89473	91512	.	-	.	transcript_id "rna-HHV8GK18_gp64"; gene_id "gene-HHV8GK18_gp64"; gene_name "vIRF-3"
+NC_009333.1	RefSeq	exon	89473	90945	.	-	.	transcript_id "rna-HHV8GK18_gp64"; gene_id "gene-HHV8GK18_gp64"; gene_name "vIRF-3";
+NC_009333.1	RefSeq	exon	91042	91512	.	-	.	transcript_id "rna-HHV8GK18_gp64"; gene_id "gene-HHV8GK18_gp64"; gene_name "vIRF-3";
+NC_009333.1	RefSeq	CDS	89700	90945	.	-	1	transcript_id "rna-HHV8GK18_gp64"; gene_id "gene-HHV8GK18_gp64"; gene_name "vIRF-3";
+NC_009333.1	RefSeq	CDS	91042	91496	.	-	0	transcript_id "rna-HHV8GK18_gp64"; gene_id "gene-HHV8GK18_gp64"; gene_name "vIRF-3";
+NC_009333.1	RefSeq	transcript	91853	94325	.	-	.	transcript_id "rna-HHV8GK18_gp65"; gene_id "gene-HHV8GK18_gp65"; gene_name "vIRF-2"
+NC_009333.1	RefSeq	exon	91853	93620	.	-	.	transcript_id "rna-HHV8GK18_gp65"; gene_id "gene-HHV8GK18_gp65"; gene_name "vIRF-2";
+NC_009333.1	RefSeq	exon	93742	94325	.	-	.	transcript_id "rna-HHV8GK18_gp65"; gene_id "gene-HHV8GK18_gp65"; gene_name "vIRF-2";
+NC_009333.1	RefSeq	CDS	92066	93620	.	-	1	transcript_id "rna-HHV8GK18_gp65"; gene_id "gene-HHV8GK18_gp65"; gene_name "vIRF-2";
+NC_009333.1	RefSeq	CDS	93742	94229	.	-	0	transcript_id "rna-HHV8GK18_gp65"; gene_id "gene-HHV8GK18_gp65"; gene_name "vIRF-2";
+NC_009333.1	RefSeq	transcript	94577	95650	.	-	.	transcript_id "gene-HHV8GK18_gp68"; gene_id "gene-HHV8GK18_gp68"; gene_name "ORF58"
+NC_009333.1	RefSeq	CDS	94577	95650	.	-	0	transcript_id "gene-HHV8GK18_gp68"; gene_name "ORF58";
+NC_009333.1	RefSeq	transcript	95655	96845	.	-	.	transcript_id "gene-HHV8GK18_gp70"; gene_id "gene-HHV8GK18_gp70"; gene_name "ORF59"
+NC_009333.1	RefSeq	CDS	95655	96845	.	-	0	transcript_id "gene-HHV8GK18_gp70"; gene_name "ORF59";
+NC_009333.1	RefSeq	transcript	96976	97893	.	-	.	transcript_id "gene-HHV8GK18_gp67"; gene_id "gene-HHV8GK18_gp67"; gene_name "ORF60"
+NC_009333.1	RefSeq	CDS	96976	97893	.	-	0	transcript_id "gene-HHV8GK18_gp67"; gene_name "ORF60";
+NC_009333.1	RefSeq	transcript	97922	100300	.	-	.	transcript_id "gene-HHV8GK18_gp66"; gene_id "gene-HHV8GK18_gp66"; gene_name "ORF61"
+NC_009333.1	RefSeq	CDS	97922	100300	.	-	0	transcript_id "gene-HHV8GK18_gp66"; gene_name "ORF61";
+NC_009333.1	RefSeq	transcript	100305	101300	.	-	.	transcript_id "gene-HHV8GK18_gp69"; gene_id "gene-HHV8GK18_gp69"; gene_name "ORF62"
+NC_009333.1	RefSeq	CDS	100305	101300	.	-	0	transcript_id "gene-HHV8GK18_gp69"; gene_name "ORF62";
+NC_009333.1	RefSeq	transcript	101314	104100	.	+	.	transcript_id "gene-HHV8GK18_gp71"; gene_id "gene-HHV8GK18_gp71"; gene_name "ORF63"
+NC_009333.1	RefSeq	CDS	101314	104100	.	+	0	transcript_id "gene-HHV8GK18_gp71"; gene_name "ORF63";
+NC_009333.1	RefSeq	transcript	104106	112013	.	+	.	transcript_id "gene-HHV8GK18_gp72"; gene_id "gene-HHV8GK18_gp72"; gene_name "ORF64"
+NC_009333.1	RefSeq	CDS	104106	112013	.	+	0	transcript_id "gene-HHV8GK18_gp72"; gene_name "ORF64";
+NC_009333.1	RefSeq	transcript	112037	112549	.	-	.	transcript_id "gene-HHV8GK18_gp76"; gene_id "gene-HHV8GK18_gp76"; gene_name "ORF65"
+NC_009333.1	RefSeq	CDS	112037	112549	.	-	0	transcript_id "gene-HHV8GK18_gp76"; gene_name "ORF65";
+NC_009333.1	RefSeq	transcript	112576	113865	.	-	.	transcript_id "gene-HHV8GK18_gp75"; gene_id "gene-HHV8GK18_gp75"; gene_name "ORF66"
+NC_009333.1	RefSeq	CDS	112576	113865	.	-	0	transcript_id "gene-HHV8GK18_gp75"; gene_name "ORF66";
+NC_009333.1	RefSeq	transcript	113799	114614	.	-	.	transcript_id "gene-HHV8GK18_gp74"; gene_id "gene-HHV8GK18_gp74"; gene_name "ORF67"
+NC_009333.1	RefSeq	CDS	113799	114614	.	-	0	transcript_id "gene-HHV8GK18_gp74"; gene_name "ORF67";
+NC_009333.1	RefSeq	transcript	114669	114911	.	-	.	transcript_id "gene-HHV8GK18_gp73"; gene_id "gene-HHV8GK18_gp73"; gene_name "ORF67A"
+NC_009333.1	RefSeq	CDS	114669	114911	.	-	0	transcript_id "gene-HHV8GK18_gp73"; gene_name "ORF67A";
+NC_009333.1	RefSeq	transcript	115108	116511	.	+	.	transcript_id "gene-HHV8GK18_gp77"; gene_id "gene-HHV8GK18_gp77"
+NC_009333.1	RefSeq	CDS	115108	116511	.	+	0	transcript_id "gene-HHV8GK18_gp77";
+NC_009333.1	RefSeq	transcript	116544	117452	.	+	.	transcript_id "gene-HHV8GK18_gp78"; gene_id "gene-HHV8GK18_gp78"
+NC_009333.1	RefSeq	CDS	116544	117452	.	+	0	transcript_id "gene-HHV8GK18_gp78";
+NC_009333.1	RefSeq	transcript	117535	118233	.	-	.	transcript_id "rna-HHV8GK18_gp79"; gene_id "gene-HHV8GK18_gp79"
+NC_009333.1	RefSeq	exon	117535	118233	.	-	.	transcript_id "rna-HHV8GK18_gp79"; gene_id "gene-HHV8GK18_gp79";
+NC_009333.1	RefSeq	transcript	118025	118207	.	-	.	transcript_id "gene-HHV8GK18_gp79"; gene_id "gene-HHV8GK18_gp79"
+NC_009333.1	RefSeq	CDS	118025	118207	.	-	0	transcript_id "gene-HHV8GK18_gp79";
+NC_009333.1	RefSeq	transcript	118075	118097	.	-	.	transcript_id "rna-NC_009333.1:118075..118097"; gene_id "rna-NC_009333.1:118075..118097"
+NC_009333.1	RefSeq	exon	118075	118097	.	-	.	transcript_id "rna-NC_009333.1:118075..118097";
+NC_009333.1	RefSeq	transcript	119586	119607	.	-	.	transcript_id "rna-HHV8_gs02"; gene_id "gene-HHV8_gs02"
+NC_009333.1	RefSeq	exon	119586	119607	.	-	.	transcript_id "rna-HHV8_gs02"; gene_id "gene-HHV8_gs02";
+NC_009333.1	RefSeq	transcript	120234	120253	.	-	.	transcript_id "rna-HHV8_gs03"; gene_id "gene-HHV8_gs03"
+NC_009333.1	RefSeq	exon	120234	120253	.	-	.	transcript_id "rna-HHV8_gs03"; gene_id "gene-HHV8_gs03";
+NC_009333.1	RefSeq	transcript	120605	120627	.	-	.	transcript_id "rna-HHV8_gs04"; gene_id "gene-HHV8_gs04"
+NC_009333.1	RefSeq	exon	120605	120627	.	-	.	transcript_id "rna-HHV8_gs04"; gene_id "gene-HHV8_gs04";
+NC_009333.1	RefSeq	transcript	121044	121065	.	-	.	transcript_id "rna-HHV8_gs05"; gene_id "gene-HHV8_gs05"
+NC_009333.1	RefSeq	exon	121044	121065	.	-	.	transcript_id "rna-HHV8_gs05"; gene_id "gene-HHV8_gs05";
+NC_009333.1	RefSeq	transcript	121514	121535	.	-	.	transcript_id "rna-HHV8_gs06"; gene_id "gene-HHV8_gs06"
+NC_009333.1	RefSeq	exon	121514	121535	.	-	.	transcript_id "rna-HHV8_gs06"; gene_id "gene-HHV8_gs06";
+NC_009333.1	RefSeq	transcript	121703	121724	.	-	.	transcript_id "rna-HHV8_gs07"; gene_id "gene-HHV8_gs07"
+NC_009333.1	RefSeq	exon	121703	121724	.	-	.	transcript_id "rna-HHV8_gs07"; gene_id "gene-HHV8_gs07";
+NC_009333.1	RefSeq	transcript	121834	121856	.	-	.	transcript_id "rna-HHV8_gs08"; gene_id "gene-HHV8_gs08"
+NC_009333.1	RefSeq	exon	121834	121856	.	-	.	transcript_id "rna-HHV8_gs08"; gene_id "gene-HHV8_gs08";
+NC_009333.1	RefSeq	transcript	121977	121998	.	-	.	transcript_id "rna-HHV8_gs09"; gene_id "gene-HHV8_gs09"
+NC_009333.1	RefSeq	exon	121977	121998	.	-	.	transcript_id "rna-HHV8_gs09"; gene_id "gene-HHV8_gs09";
+NC_009333.1	RefSeq	transcript	122137	122159	.	-	.	transcript_id "rna-HHV8_gs10"; gene_id "gene-HHV8_gs10"
+NC_009333.1	RefSeq	exon	122137	122159	.	-	.	transcript_id "rna-HHV8_gs10"; gene_id "gene-HHV8_gs10";
+NC_009333.1	RefSeq	transcript	122393	122959	.	-	.	transcript_id "gene-HHV8GK18_gp80"; gene_id "gene-HHV8GK18_gp80"
+NC_009333.1	RefSeq	CDS	122393	122959	.	-	0	transcript_id "gene-HHV8GK18_gp80";
+NC_009333.1	RefSeq	transcript	123042	123815	.	-	.	transcript_id "gene-HHV8GK18_gp82"; gene_id "gene-HHV8GK18_gp82"
+NC_009333.1	RefSeq	CDS	123042	123815	.	-	0	transcript_id "gene-HHV8GK18_gp82";
+NC_009333.1	RefSeq	transcript	124057	127446	.	-	.	transcript_id "gene-HHV8GK18_gp81"; gene_id "gene-HHV8GK18_gp81"
+NC_009333.1	RefSeq	CDS	124057	127446	.	-	0	transcript_id "gene-HHV8GK18_gp81";
+NC_009333.1	RefSeq	transcript	127997	130671	.	+	.	transcript_id "rna-NC_009333.1:127997..130671"; gene_id "rna-NC_009333.1:127997..130671"
+NC_009333.1	RefSeq	exon	127997	129368	.	+	.	transcript_id "rna-NC_009333.1:127997..130671";
+NC_009333.1	RefSeq	exon	129517	130671	.	+	.	transcript_id "rna-NC_009333.1:127997..130671";
+NC_009333.1	RefSeq	transcript	128264	129079	.	+	.	transcript_id "gene-HHV8GK18_gp83"; gene_id "gene-HHV8GK18_gp83"
+NC_009333.1	RefSeq	CDS	128264	129079	.	+	0	transcript_id "gene-HHV8GK18_gp83";
+NC_009333.1	RefSeq	transcript	129520	130548	.	+	.	transcript_id "gene-HHV8GK18_gp84"; gene_id "gene-HHV8GK18_gp84"
+NC_009333.1	RefSeq	CDS	129520	130548	.	+	0	transcript_id "gene-HHV8GK18_gp84";
+NC_009333.1	RefSeq	transcript	130699	134589	.	-	.	transcript_id "gene-HHV8GK18_gp86"; gene_id "gene-HHV8GK18_gp86"
+NC_009333.1	RefSeq	CDS	130699	134589	.	-	0	transcript_id "gene-HHV8GK18_gp86";
+NC_009333.1	RefSeq	transcript	134824	136899	.	-	.	transcript_id "gene-HHV8GK18_gp85"; gene_id "gene-HHV8GK18_gp85"; gene_name "K15"
+NC_009333.1	RefSeq	CDS	134824	135287	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	135373	135474	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	135557	135664	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	135747	135899	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	135977	136066	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	136155	136397	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	136481	136573	.	-	2	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";
+NC_009333.1	RefSeq	CDS	136683	136899	.	-	0	transcript_id "gene-HHV8GK18_gp85"; gene_name "K15";

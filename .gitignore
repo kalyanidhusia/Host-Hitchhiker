@@ -7,6 +7,11 @@ dual_virus_samplesheet.csv
 fetch_genome.sh
 results_host_multiVirus/
 
+pipeline/human-virus-rnaseq-nextflow/ref/human*
+pipeline/human-virus-rnaseq-nextflow/ref/genco*
+pipeline/human-virus-rnaseq-nextflow/ref/GR*
+pipeline/human-virus-rnaseq-nextflow/ref_bundle/human*
+
 *.vcf
 *.fastq.gz
 data/
