@@ -1,7 +1,7 @@
 01_make_human_virus_reference.sh
 02_nfcore_params.txt.old
 02_prepare_nfcore_and_qc.sh
-03_submit_slurm.sh
+
 dual_virus_samplesheet.csv
 fetch_genome.sh
 results_host_multiVirus/
