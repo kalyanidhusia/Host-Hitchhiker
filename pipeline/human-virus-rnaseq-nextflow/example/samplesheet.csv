@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2,strandedness
+SRR19779319,/home/kdhusia/PROJECTS/human_virus/reads/SRR19779319_1.fastq.gz,/home/kdhusia/PROJECTS/human_virus/reads/SRR19779319_2.fastq.gz,reverse
+SRR20020761,/home/kdhusia/PROJECTS/human_virus/reads/SRR20020761_1.fastq.gz,/home/kdhusia/PROJECTS/human_virus/reads/SRR20020761_2.fastq.gz,reverse
+SRR20020769,/home/kdhusia/PROJECTS/human_virus/reads/SRR20020769_1.fastq.gz,/home/kdhusia/PROJECTS/human_virus/reads/SRR20020769_2.fastq.gz,reverse
+SRR20020770,/home/kdhusia/PROJECTS/human_virus/reads/SRR20020770_1.fastq.gz,/home/kdhusia/PROJECTS/human_virus/reads/SRR20020770_2.fastq.gz,reverse
+SRR25816557,/home/kdhusia/PROJECTS/human_virus/reads/SRR25816557_1.fastq.gz,/home/kdhusia/PROJECTS/human_virus/reads/SRR25816557_2.fastq.gz,reverse
+SRR25905050,/home/kdhusia/PROJECTS/human_virus/reads/SRR25905050_1.fastq.gz,/home/kdhusia/PROJECTS/human_virus/reads/SRR25905050_2.fastq.gz,reverse

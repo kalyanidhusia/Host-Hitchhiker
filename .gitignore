@@ -23,6 +23,5 @@ combine_results
 apptainer_cache
 results/
 results_kshv_host/
-samplesheet.csv
 OLD/
 *.nextflow*
